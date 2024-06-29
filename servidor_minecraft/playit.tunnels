@@ -1,48 +1,48 @@
 {
   "tcp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 1,
+    "desired": 1
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "classic-john.gl.at.ply.gg",
+          "assigned_domain": "following-profession.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d46f2433-eb91-4f9c-b8ec-ab80f7f8730b",
-          "ip_hostname": "16.ip.gl.ply.gg",
+          "id": "f10320bb-ee03-432f-bbeb-434b3f0e0b3f",
+          "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 28942,
-          "port_start": 28941,
+          "port_end": 50979,
+          "port_start": 50978,
           "region": "global",
-          "static_ip4": "147.185.221.16",
-          "tunnel_ip": "2602:fbaf:0:1::10"
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-29T19:43:44.984338Z",
+      "created_at": "2024-06-29T20:38:51.032926Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "76890efa-b839-4f4b-b433-ccc0d758d3df",
+      "id": "49bc4729-d895-4401-8812-2c717c70418c",
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "91590750-3320-472c-bb8b-24e96928759d",
-          "agent_name": "from-key-cdc4",
+          "agent_id": "16aef767-763d-4651-b4c2-4849445f3c55",
+          "agent_name": "from-key-95da",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
         "type": "agent"
       },
       "port_count": 1,
-      "port_type": "udp",
+      "port_type": "both",
       "ratelimit": {
         "bytes_per_second": null,
         "packets_per_second": null
