@@ -37,7 +37,7 @@
           "agent_id": "16aef767-763d-4651-b4c2-4849445f3c55",
           "agent_name": "from-key-95da",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 50978
         },
         "type": "agent"
       },

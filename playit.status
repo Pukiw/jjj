@@ -1,288 +1,954 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719694979314 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719695381945 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719694982388 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695385004 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719694985436 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695388042 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719694988481 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695391208 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719694991541 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695394288 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719694994641 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695397365 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719694997703 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695400412 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695000765 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695403517 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695003838 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695406654 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695006960 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695409744 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695010014 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695412786 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695013095 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695415844 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695016172 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695418911 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695019239 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695421948 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695022299 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695425017 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695025334 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695428141 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695028395 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695431203 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695031491 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695434294 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695034582 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695437336 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695037645 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695440375 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695040685 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695443421 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695043723 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695446487 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695046845 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695449547 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695049897 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695452610 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695052947 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695455689 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695056006 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695458747 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695059114 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695461837 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695062164 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695464902 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695065218 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695467959 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695068273 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695471043 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695071332 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695474159 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695074384 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695477214 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695077441 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695480321 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695080547 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695483370 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695083609 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695486413 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695086673 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695489487 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695089723 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695492606 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695092764 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695495704 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695095811 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695498754 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695098909 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695501832 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695102203 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695504875 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695105412 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695507918 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695108465 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695510949 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695111503 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695514015 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695114609 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695517070 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695117660 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695520160 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695120750 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695523197 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719695123842 tunnel running, 1 tunnels registered
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695526293 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-following-profession.gl.at.ply.gg:50978 => 127.0.0.1:25565 (proto: Both, port count: 1)
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695529376 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695532427 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695535497 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695538551 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695541610 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695544663 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695547713 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695550785 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695553861 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695556899 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695559937 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695563132 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695566181 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695569275 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695572346 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695575414 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695578452 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695581527 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695584582 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695587653 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695590697 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695593747 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695596805 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695599880 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695602931 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695605980 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695609029 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695612095 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695615147 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695618207 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695621265 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695624297 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695627340 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695630389 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695633454 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695636492 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695639701 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695642743 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695645802 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695648853 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695651912 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695654972 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695658069 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695661120 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695664181 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695667227 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695670261 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695673343 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695676394 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695679474 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695682550 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695685599 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695688642 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695691805 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695694836 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695697890 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695700935 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695704033 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695707139 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695710174 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695713233 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695716295 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695719364 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695722407 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695725504 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695728557 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695731608 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695734684 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695737774 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695740828 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695743885 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695747019 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695750084 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695753125 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695756174 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695759211 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695762249 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695765288 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695768421 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695771663 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695774729 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695777781 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695780832 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695783881 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695786985 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695790065 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695793148 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695796197 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695799264 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695802315 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695805351 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695808416 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695811479 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695814555 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695817594 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695820657 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695823711 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695826753 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695829801 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695832903 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695835973 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695839027 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695842087 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695845147 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695848359 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695851395 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695854447 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695857496 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695860577 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695863633 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719695866679 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+following-profession.gl.at.ply.gg:50978 => 127.0.0.1:50978 (proto: Both, port count: 1)
