@@ -1,322 +1,34 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719703647380 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719707857381 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703650431 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719707860430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703653510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719707863485 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703656574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719707866517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703659656 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719707869587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703662703 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703665756 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703668810 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703671863 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703674989 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703678053 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703681109 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703684162 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703687253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703690289 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703693404 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703696449 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703699501 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703702559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703705619 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703708652 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703711694 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703714787 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703717847 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703720933 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703724017 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703727083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703730141 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703733187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703736256 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703739310 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703742404 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703745466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703748509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703751559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703754639 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703757683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703760723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703763782 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703766873 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703769951 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703773027 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703776100 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703779185 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703782224 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703785352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703788382 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703791494 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703794598 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703797641 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703800714 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703803786 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703806824 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-joined-appropriate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-jan-jeff.gl.at.ply.gg:4223 => 127.0.0.1:4223 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719703809876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719707872630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
