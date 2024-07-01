@@ -2017,3 +2017,11 @@ BCLib - The End  BiomeSource (736116a6)
 [02:57:00] [Server thread/INFO]: Julilo has made the advancement [Suit Up]
 [02:57:39] [Server thread/INFO]: Julilo has made the advancement [Disme A Dozen]
 [03:00:36] [Server thread/INFO]: Julilo has made the advancement [Diamonds!]
+[03:09:08] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[03:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[03:11:20] [Server thread/WARN]: Julilo moved wrongly!
+[03:12:39] [Server thread/INFO]: Julilo has made the advancement [Ol' Betsy]
+[03:13:13] [Server thread/INFO]: Julilo has made the advancement [Close Quarters]
+[03:15:13] [Server thread/INFO]: Julilo has made the advancement [Voluntary Exile]
+[03:15:56] [Server thread/INFO]: Villager class_1646['Ramonita'/6899, l='ServerLevel[world]', x=-611.83, y=-14.00, z=120.37] died, message: 'Ramonita was shot by Pillager'
+[03:15:56] [Server thread/INFO]: Named entity class_1646['Ramonita'/6899, l='ServerLevel[world]', x=-611.83, y=-14.00, z=120.37] died: Ramonita was shot by Pillager
