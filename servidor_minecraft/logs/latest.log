@@ -1993,3 +1993,58 @@ BCLib - Nether BiomeSource (7c9e9b2b)
 [01:32:31] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos class_2338{x=59, y=73, z=-523}
 [01:32:37] [Worker-Main-8/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
 [01:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6097ms or 121 ticks behind
+[01:32:53] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=66, y=-6, z=-544} but found not block entity block Block{minecraft:ice} at location
+[01:32:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=66, y=-6, z=-544}
+[01:32:53] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=64, y=-6, z=-544} but found not block entity block Block{minecraft:ice} at location
+[01:32:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=64, y=-6, z=-544}
+[01:33:17] [Worker-Main-8/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:35] [Worker-Main-8/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[01:33:51] [Server thread/INFO]: Julilo has made the advancement [Cobweb Entanglement]
+[01:35:54] [Server thread/INFO]: Made julio a server operator
+[01:36:26] [Server thread/INFO]: Nothing changed. The player already is an operator
+[01:37:31] [Server thread/INFO]: Julilo has made the advancement [Take Aim]
+[01:40:17] [Server thread/INFO]: [Handshake] Sending channel query
+[01:40:17] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[01:40:17] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[01:40:17] [Server thread/INFO]: reypipilin[/127.68.93.29:53331] logged in with entity id 3603 at (-8.5, 67.0, -5.5)
+[01:40:17] [Server thread/INFO]: Sending server config values to client
+[01:40:17] [Server thread/INFO]: Syncing config to reypipilin (b5426544-69e1-3feb-8a03-8d075c953f51)
+[01:40:18] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:40:18] [Server thread/INFO]: reypipilin joined the game
+[01:40:18] [Server thread/INFO]: Updating all forceload tickets for b5426544-69e1-3feb-8a03-8d075c953f51
+[01:40:18] [Server thread/INFO]: PLAYER_JOIN
+[01:40:18] [Server thread/INFO]: add_player wand
+[01:40:18] [Server thread/INFO]: config sent
+[01:40:20] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[01:40:51] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: reypipilin -> Global
+[01:40:52] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player reypipilin. Claiming: GRAVE / Robbing: INVENTORY
+[01:40:52] [Server thread/INFO]: reypipilin lost connection: Disconnected
+[01:40:52] [Server thread/INFO]: reypipilin left the game
+[01:40:52] [Server thread/INFO]: remove player wand
+[01:40:52] [Server thread/INFO]: Updating all forceload tickets for b5426544-69e1-3feb-8a03-8d075c953f51
+[01:41:00] [Server thread/INFO]: [Handshake] Sending channel query
+[01:41:00] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[01:41:00] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[01:41:01] [Server thread/INFO]: reypipilin[/127.68.93.29:50271] logged in with entity id 3921 at (-8.5, 67.0, -5.5)
+[01:41:01] [Server thread/INFO]: Sending server config values to client
+[01:41:01] [Server thread/INFO]: Syncing config to reypipilin (b5426544-69e1-3feb-8a03-8d075c953f51)
+[01:41:02] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:41:02] [Server thread/INFO]: reypipilin joined the game
+[01:41:02] [Server thread/INFO]: Updating all forceload tickets for b5426544-69e1-3feb-8a03-8d075c953f51
+[01:41:02] [Server thread/INFO]: PLAYER_JOIN
+[01:41:02] [Server thread/INFO]: add_player wand
+[01:41:02] [Server thread/INFO]: config sent
+[01:41:03] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[01:41:04] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: reypipilin -> Global
+[01:41:04] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player reypipilin. Claiming: GRAVE / Robbing: INVENTORY
+[01:41:06] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of reypipilin accepted server config.
