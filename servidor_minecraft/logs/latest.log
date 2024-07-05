@@ -1994,3 +1994,21 @@ BCLib - Nether BiomeSource (5854f156)
 [23:14:00] [Server thread/INFO]: Made Poopsi a server operator
 [23:14:00] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
 [23:14:28] [Server thread/INFO]: Dioweo claimed a grave belonging to Dioweo at 4, 71, -6, minecraft:overworld
+[23:17:22] [Server thread/INFO]: Dioweo has made the advancement [Safe Haven]
+[23:17:23] [Server thread/WARN]: Poopsi moved wrongly!
+[23:18:16] [Server thread/INFO]: Dioweo has made the advancement ['X' Marks the Spot]
+[23:18:38] [Server thread/INFO]: Dioweo has made the advancement [Call For Adventure]
+[23:18:43] [Server thread/INFO]: Poopsi has made the advancement [Call For Adventure]
+[23:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[23:21:16] [Server thread/INFO]: Poopsi claimed a grave belonging to Poopsi at 201, 63, 21, minecraft:overworld
+[23:21:27] [Server thread/INFO]: Dioweo has made the advancement [Getting an Upgrade]
+[23:22:04] [Server thread/INFO]: Poopsi has made the advancement [Stone Age]
+[23:22:12] [Server thread/INFO]: Poopsi has made the advancement [Path of Fire]
+[23:22:39] [Server thread/INFO]: Dioweo has made the advancement [Path of Archer]
+[23:22:41] [Server thread/INFO]: Dioweo has made the advancement [Acquire Hardware]
+[23:22:44] [Server thread/INFO]: Dioweo has made the advancement [Scarlet Temptation]
+[23:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7826ms or 156 ticks behind
+[23:23:51] [Server thread/INFO]: Poopsi was slain by Baby Skeleton
+[23:23:54] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[23:23:55] [Server thread/INFO]: Dioweo has made the advancement [Barrel Booty]
+[23:24:51] [Server thread/INFO]: Poopsi claimed a grave belonging to Poopsi at 119, 102, 18, minecraft:overworld
