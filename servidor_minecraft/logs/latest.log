@@ -2127,3 +2127,8 @@ BCLib - Nether BiomeSource (7c9e9b2b)
 [01:51:16] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
 [01:51:21] [Server thread/INFO]: [Julilo: Teleported Julilo to Dioweo]
 [01:51:51] [Server thread/INFO]: <Julilo> vivo o muerto
+[01:56:01] [Server thread/INFO]: Dioweo has made the advancement [Stone Age]
+[02:01:29] [Server thread/INFO]: Dioweo lost connection: Timed out
+[02:01:29] [Server thread/INFO]: Dioweo left the game
+[02:01:29] [Server thread/INFO]: remove player wand
+[02:01:29] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
