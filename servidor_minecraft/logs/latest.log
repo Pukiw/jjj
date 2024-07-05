@@ -2048,3 +2048,82 @@ BCLib - Nether BiomeSource (7c9e9b2b)
 [01:41:04] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: reypipilin -> Global
 [01:41:04] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player reypipilin. Claiming: GRAVE / Robbing: INVENTORY
 [01:41:06] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of reypipilin accepted server config.
+[01:42:54] [Server thread/INFO]: reypipilin has made the advancement [Packed In]
+[01:43:30] [Server thread/INFO]: reypipilin lost connection: Disconnected
+[01:43:30] [Server thread/INFO]: reypipilin left the game
+[01:43:30] [Server thread/INFO]: remove player wand
+[01:43:30] [Server thread/INFO]: Updating all forceload tickets for b5426544-69e1-3feb-8a03-8d075c953f51
+[01:43:49] [Server thread/INFO]: [Handshake] Sending channel query
+[01:43:50] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[01:43:50] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[01:43:50] [Server thread/INFO]: Dioweo[/127.222.215.115:36689] logged in with entity id 5174 at (4.5, 71.0, -5.5)
+[01:43:50] [Server thread/INFO]: Sending server config values to client
+[01:43:50] [Server thread/INFO]: Syncing config to Dioweo (b73e33c7-af0d-38ce-b393-f540f754c290)
+[01:43:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:43:50] [Server thread/INFO]: Dioweo joined the game
+[01:43:51] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
+[01:43:51] [Server thread/INFO]: PLAYER_JOIN
+[01:43:51] [Server thread/INFO]: add_player wand
+[01:43:51] [Server thread/INFO]: config sent
+[01:43:51] [Server thread/INFO]: Dioweo has made the advancement [Mythic Mobs]
+[01:43:54] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[01:44:01] [Server thread/INFO]: Incorrect argument for command
+[01:44:01] [Server thread/INFO]: ...p julioop julio<--[HERE]
+[01:44:10] [Server thread/INFO]: Made Julilo a server operator
+[01:44:10] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[01:44:13] [Server thread/INFO]: Dioweo was slain by Zombie
+[01:44:27] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Dioweo -> Global
+[01:44:27] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Dioweo. Claiming: GRAVE / Robbing: INVENTORY
+[01:44:29] [Server thread/INFO]: [Julilo: Teleported 2 entities to Dioweo]
+[01:45:10] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[01:45:20] [Server thread/INFO]: [Julilo: Teleported 2 entities to Julilo]
+[01:45:50] [Server thread/INFO]: Dioweo lost connection: Timed out
+[01:45:50] [Server thread/INFO]: Dioweo left the game
+[01:45:50] [Server thread/INFO]: remove player wand
+[01:45:50] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
+[01:47:11] [Server thread/INFO]: [Handshake] Sending channel query
+[01:47:11] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[01:47:11] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[01:47:11] [Server thread/INFO]: Dioweo[/127.222.215.115:44971] logged in with entity id 5930 at (3.2439037906668022, 70.0, -5.243773307767916)
+[01:47:11] [Server thread/INFO]: Sending server config values to client
+[01:47:12] [Server thread/INFO]: Syncing config to Dioweo (b73e33c7-af0d-38ce-b393-f540f754c290)
+[01:47:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:47:12] [Server thread/INFO]: Dioweo joined the game
+[01:47:12] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
+[01:47:13] [Server thread/INFO]: PLAYER_JOIN
+[01:47:13] [Server thread/INFO]: add_player wand
+[01:47:13] [Server thread/INFO]: config sent
+[01:47:18] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[01:47:20] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Dioweo -> Global
+[01:47:20] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Dioweo. Claiming: GRAVE / Robbing: INVENTORY
+[01:47:45] [Server thread/INFO]: [Julilo: Teleported Dioweo to Julilo]
+[01:47:53] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[01:48:08] [Server thread/INFO]: Julilo was slain by Revenant
+[01:48:10] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[01:48:21] [Server thread/INFO]: <Julilo> tas vivo
+[01:48:36] [Server thread/INFO]: [Julilo: Teleported Julilo to -46.500000, 66.500000, -50.500000]
+[01:48:41] [Server thread/INFO]: Julilo claimed a grave belonging to Julilo at -37, 65, -41, minecraft:overworld
+[01:49:11] [Server thread/INFO]: Dioweo lost connection: Timed out
+[01:49:11] [Server thread/INFO]: Dioweo left the game
+[01:49:11] [Server thread/INFO]: remove player wand
+[01:49:11] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
+[01:49:28] [Server thread/INFO]: [Handshake] Sending channel query
+[01:49:29] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[01:49:29] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[01:49:29] [Server thread/INFO]: Dioweo[/127.222.215.115:42299] logged in with entity id 6931 at (-47.273424342081185, 68.0, -44.84943413446126)
+[01:49:29] [Server thread/INFO]: Sending server config values to client
+[01:49:29] [Server thread/INFO]: Syncing config to Dioweo (b73e33c7-af0d-38ce-b393-f540f754c290)
+[01:49:29] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:49:29] [Server thread/INFO]: Dioweo joined the game
+[01:49:29] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
+[01:49:29] [Server thread/INFO]: PLAYER_JOIN
+[01:49:29] [Server thread/INFO]: add_player wand
+[01:49:29] [Server thread/INFO]: config sent
+[01:49:31] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[01:49:33] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Dioweo -> Global
+[01:49:33] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Dioweo. Claiming: GRAVE / Robbing: INVENTORY
+[01:49:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[01:50:31] [Server thread/INFO]: [Julilo: Teleported Julilo to Dioweo]
+[01:51:16] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[01:51:21] [Server thread/INFO]: [Julilo: Teleported Julilo to Dioweo]
+[01:51:51] [Server thread/INFO]: <Julilo> vivo o muerto
