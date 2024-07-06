@@ -171,3 +171,32 @@
 [00:05:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-865, y=104, z=1250} but found not block entity block Block{minecraft:ice} at location
 [00:05:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-865, y=104, z=1250}
 [00:05:51] [Server thread/INFO]: Dioweo has made the advancement [Gravedigger]
+[00:05:55] [Server thread/INFO]: Poopsi has made the advancement [Gravedigger]
+[00:06:22] [Server thread/INFO]: Poopsi has made the advancement [Suit Up]
+[00:07:31] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga]] from pos class_2338{x=-805, y=73, z=1611}
+[00:07:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5906ms or 118 ticks behind
+[00:07:45] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[00:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3417ms or 68 ticks behind
+[00:08:21] [Worker-Main-15/WARN]: Tried to access a block entity before it was created. class_2338{x=-1139, y=1, z=1556}
+[00:08:21] [Worker-Main-15/WARN]: Tried to access a block entity before it was created. class_2338{x=-1139, y=1, z=1558}
+[00:08:21] [Worker-Main-15/WARN]: Tried to access a block entity before it was created. class_2338{x=-1139, y=1, z=1560}
+[00:08:30] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[00:08:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1137, y=62, z=1663} but found not block entity block Block{minecraft:ice} at location
+[00:08:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-1137, y=62, z=1663}
+[00:08:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1138, y=62, z=1662} but found not block entity block Block{minecraft:ice} at location
+[00:08:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-1138, y=62, z=1662}
+[00:08:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1137, y=62, z=1661} but found not block entity block Block{minecraft:ice} at location
+[00:08:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-1137, y=62, z=1661}
+[00:08:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1138, y=62, z=1663} but found not block entity block Block{minecraft:ice} at location
+[00:08:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-1138, y=62, z=1663}
+[00:08:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1137, y=62, z=1662} but found not block entity block Block{minecraft:ice} at location
+[00:08:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-1137, y=62, z=1662}
+[00:08:44] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1137, y=62, z=1664} but found not block entity block Block{minecraft:ice} at location
+[00:08:44] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-1137, y=62, z=1664}
+[00:08:44] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1137, y=62, z=1665} but found not block entity block Block{minecraft:ice} at location
+[00:08:44] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-1137, y=62, z=1665}
+[00:09:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-991, y=62, z=1775} but found not block entity block Block{minecraft:ice} at location
+[00:09:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-991, y=62, z=1775}
+[00:09:13] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-992, y=62, z=1775} but found not block entity block Block{minecraft:ice} at location
+[00:09:13] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=-992, y=62, z=1775}
+[00:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
