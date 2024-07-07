@@ -2027,3 +2027,28 @@ BCLib - The End  BiomeSource (4d420019)
 [18:51:18] [Server thread/INFO]: remove player wand
 [18:51:18] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
 [18:51:18] [Server thread/INFO]: [voicechat] Disconnecting client Poopsi
+[18:51:56] [Server thread/INFO]: [Handshake] Sending channel query
+[18:51:58] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[18:51:58] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[18:52:17] [Server thread/INFO]: Poopsi[/127.252.144.55:49923] logged in with entity id 9436 at (-2506.199314418008, 111.0, 2518.496554057689)
+[18:52:17] [Server thread/INFO]: Sending server config values to client
+[18:52:17] [Server thread/INFO]: Syncing config to Poopsi (57b584d8-1d36-309d-8c51-a8ad7a5f7cf1)
+[18:52:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:52:17] [Server thread/INFO]: Poopsi joined the game
+[18:52:18] [Server thread/INFO]: PLAYER_JOIN
+[18:52:18] [Server thread/INFO]: add_player wand
+[18:52:18] [Server thread/INFO]: config sent
+[18:52:18] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:52:27] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[18:52:28] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Poopsi -> Global
+[18:52:28] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Poopsi. Claiming: GRAVE / Robbing: INVENTORY
+[18:52:28] [Server thread/INFO]: [voicechat] Received secret request of Poopsi (18)
+[18:52:28] [Server thread/INFO]: [voicechat] Sent secret to Poopsi
+[18:52:31] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[18:52:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:52:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:52:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Poopsi (57b584d8-1d36-309d-8c51-a8ad7a5f7cf1) successfully connected to voice chat
+[18:53:22] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[18:53:22] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
