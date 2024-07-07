@@ -2047,3 +2047,20 @@ BCLib - The End  BiomeSource (3ed8d339)
 [23:05:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
 [23:05:56] [Worker-Main-21/INFO]: [betternether] BBox:class_3341{minX=-724, minY=22, minZ=380, maxX=-540, maxY=96, maxZ=564}
 [23:06:35] [Worker-Main-21/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[23:12:43] [Server thread/INFO]: Dioweo has made the advancement [A Terrible Fortress]
+[23:12:59] [Server thread/INFO]: Poopsi has made the advancement [A Terrible Fortress]
+[23:14:33] [Server thread/INFO]: Dioweo withered away
+[23:14:36] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[23:14:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23:14:51] [Server thread/INFO]: <Dioweo> tp?
+[23:15:10] [Server thread/INFO]: Poopsi withered away whilst fighting Wither Skeleton
+[23:15:12] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[23:15:42] [Server thread/INFO]: Dioweo has made the advancement [Packed In]
+[23:15:44] [Server thread/INFO]: Poopsi has made the advancement [Packed In]
+[23:15:59] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -2510.500000, 110.500000, 2523.500000]
+[23:16:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23:16:13] [Server thread/INFO]: [Poopsi: Teleported Dioweo to Poopsi]
+[23:16:30] [Server thread/INFO]: Dioweo has made the advancement [Burner of Souls]
+[23:18:15] [Server thread/INFO]: Dioweo was slain by Ghoul
+[23:18:17] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[23:18:20] [Server thread/INFO]: Poopsi was slain by Ghoul
