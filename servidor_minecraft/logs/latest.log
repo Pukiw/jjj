@@ -2067,3 +2067,65 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:49:53] [Server thread/INFO]: Poopsi claimed a grave belonging to Poopsi at -2466, -23, 2419, minecraft:overworld
 [19:50:12] [Server thread/INFO]: [Poopsi: Set own game mode to Survival Mode]
 [19:55:53] [Server thread/INFO]: Poopsi has made the advancement [The Beginning]
+[20:07:46] [Server thread/INFO]: Poopsi lost connection: Disconnected
+[20:07:46] [Server thread/INFO]: Poopsi left the game
+[20:07:46] [Server thread/INFO]: remove player wand
+[20:07:46] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[20:07:46] [Server thread/INFO]: [voicechat] Disconnecting client Poopsi
+[20:08:01] [Server thread/INFO]: Incorrect argument for command
+[20:08:01] [Server thread/INFO]: c stop<--[HERE]
+[20:08:06] [Server thread/INFO]: Stopping the server
+[20:08:06] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[20:08:06] [Server thread/INFO]: Resetting environment controller...
+[20:08:06] [Server thread/INFO]: Stopping server
+[20:08:06] [Server thread/INFO]: Saving players
+[20:08:06] [Server thread/INFO]: Saving worlds
+[20:08:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/spellbladenext:glassocean
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[20:08:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:08:08] [Server thread/INFO]: Stopping IO worker...
+[20:08:08] [Server thread/INFO]: Stopped IO worker!
