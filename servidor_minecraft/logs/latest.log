@@ -1972,3 +1972,58 @@ BCLib - The End  BiomeSource (4d420019)
 [18:41:18] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -1972.500000, 143.500000, 1905.500000]
 [18:41:45] [Worker-Main-13/WARN]: Tried to access a block entity before it was created. class_2338{x=-2247, y=71, z=1811}
 [18:41:45] [Worker-Main-13/WARN]: Tried to access a block entity before it was created. class_2338{x=-2247, y=71, z=1811}
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:41:55] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[18:42:14] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -2166.500000, 65.500000, 1994.500000]
+[18:42:28] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[18:42:44] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -1845.500000, 70.251153, 2097.500000]
+[18:42:56] [Worker-Main-13/WARN]: Tried to access a block entity before it was created. class_2338{x=-1632, y=84, z=2292}
+[18:42:56] [Worker-Main-13/WARN]: Tried to access a block entity before it was created. class_2338{x=-1632, y=84, z=2292}
+[18:43:12] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -1953.500000, 62.000000, 2510.500000]
+[18:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[18:44:13] [Server thread/INFO]: Poopsi has made the advancement [Close Quarters]
+[18:45:45] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -1990.500000, 63.500000, 2647.500000]
+[18:45:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[18:46:33] [Server thread/INFO]: [Poopsi: Set own game mode to Survival Mode]
+[18:49:32] [Server thread/INFO]: [Poopsi: Set own game mode to Creative Mode]
+[18:49:41] [Server thread/INFO]: [Poopsi: Set own game mode to Survival Mode]
+[18:49:45] [Server thread/WARN]: Poopsi was kicked for floating too long!
+[18:49:45] [Server thread/INFO]: Poopsi lost connection: Disconnected
+[18:49:45] [Server thread/INFO]: Poopsi left the game
+[18:49:45] [Server thread/INFO]: remove player wand
+[18:49:45] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:49:45] [Server thread/INFO]: [voicechat] Disconnecting client Poopsi
+[18:49:45] [Server thread/WARN]: handleDisconnection() called twice
+[18:49:54] [Server thread/INFO]: [Handshake] Sending channel query
+[18:49:54] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[18:49:54] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[18:49:55] [Server thread/INFO]: Poopsi[/127.252.144.55:59537] logged in with entity id 8998 at (-2540.0517293972957, 142.74313571217957, 2502.274373193162)
+[18:49:55] [Server thread/INFO]: Sending server config values to client
+[18:49:55] [Server thread/INFO]: Syncing config to Poopsi (57b584d8-1d36-309d-8c51-a8ad7a5f7cf1)
+[18:49:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:49:55] [Server thread/INFO]: Poopsi joined the game
+[18:49:56] [Server thread/INFO]: PLAYER_JOIN
+[18:49:56] [Server thread/INFO]: add_player wand
+[18:49:56] [Server thread/INFO]: config sent
+[18:49:56] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:49:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[18:50:06] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[18:50:07] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Poopsi -> Global
+[18:50:07] [Server thread/INFO]: [voicechat] Received secret request of Poopsi (18)
+[18:50:07] [Server thread/INFO]: [voicechat] Sent secret to Poopsi
+[18:50:07] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Poopsi. Claiming: GRAVE / Robbing: INVENTORY
+[18:50:12] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[18:50:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:50:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:50:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Poopsi (57b584d8-1d36-309d-8c51-a8ad7a5f7cf1) successfully connected to voice chat
+[18:51:18] [Server thread/INFO]: Poopsi lost connection: Disconnected
+[18:51:18] [Server thread/INFO]: Poopsi left the game
+[18:51:18] [Server thread/INFO]: remove player wand
+[18:51:18] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[18:51:18] [Server thread/INFO]: [voicechat] Disconnecting client Poopsi
