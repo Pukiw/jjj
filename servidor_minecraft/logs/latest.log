@@ -2064,3 +2064,18 @@ BCLib - The End  BiomeSource (3ed8d339)
 [23:18:15] [Server thread/INFO]: Dioweo was slain by Ghoul
 [23:18:17] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
 [23:18:20] [Server thread/INFO]: Poopsi was slain by Ghoul
+[23:19:30] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[23:19:42] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -2514.500000, 110.500000, 2522.500000]
+[23:19:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[23:20:21] [Server thread/INFO]: Poopsi was slain by Zombie
+[23:20:23] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[23:20:45] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -2517.500000, 111.500000, 2522.500000]
+[23:20:56] [Server thread/INFO]: [Poopsi: Teleported Dioweo to Poopsi]
+[23:21:09] [Server thread/INFO]: Dioweo claimed a grave belonging to Dioweo at -2516, 112, 2518, minecraft:overworld
+[23:21:11] [Server thread/INFO]: Poopsi lost connection: Disconnected
+[23:21:11] [Server thread/INFO]: Poopsi left the game
+[23:21:11] [Server thread/INFO]: remove player wand
+[23:21:11] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[23:21:11] [Server thread/INFO]: [voicechat] Disconnecting client Poopsi
+[23:23:52] [Server thread/INFO]: Dioweo has made the advancement [Batteries Not Included]
+[23:28:53] [Server thread/INFO]: Dioweo has made the advancement [Take Aim]
