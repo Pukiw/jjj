@@ -1952,3 +1952,14 @@ BCLib - Nether BiomeSource (5a02236e)
 [14:59:45] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [14:59:45] [Server thread/INFO]: Julilo claimed a grave belonging to Julilo at -2334, 75, 2480, minecraft:overworld
 [15:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[15:13:33] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[15:18:37] [Server thread/INFO]: Julilo was slain by Skeleton
+[15:18:37] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15:18:37] [Netty Epoll Server IO #3/ERROR]: Combo count: 4 is dual wielding: false
+[15:18:37] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[15:18:37] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[15:18:37] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[15:18:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[15:19:27] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[15:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[15:19:54] [Server thread/INFO]: [Julilo: Teleported Julilo to -2269.500000, 232.500000, 2548.500000]
