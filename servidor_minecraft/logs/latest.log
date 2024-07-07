@@ -2009,3 +2009,42 @@ BCLib - The End  BiomeSource (1235793f)
 [01:55:49] [Server thread/INFO]: remove player wand
 [01:55:49] [Server thread/INFO]: Updating all forceload tickets for f432ece3-f8ee-33f5-8542-e2fd66378462
 [01:55:49] [Server thread/INFO]: [voicechat] Disconnecting client Julilo
+[02:00:34] [Server thread/INFO]: <Dioweo> lol
+[02:01:50] [Server thread/INFO]: [Handshake] Sending channel query
+[02:01:50] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[02:01:50] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[02:01:50] [Server thread/INFO]: Julilo[/127.252.144.55:38235] logged in with entity id 6954 at (-982.7543408534436, 129.0, 1622.2551131425469)
+[02:01:50] [Server thread/INFO]: Sending server config values to client
+[02:01:51] [Server thread/INFO]: Syncing config to Julilo (f432ece3-f8ee-33f5-8542-e2fd66378462)
+[02:01:51] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:01:51] [Server thread/INFO]: Julilo joined the game
+[02:01:52] [Server thread/INFO]: PLAYER_JOIN
+[02:01:52] [Server thread/INFO]: add_player wand
+[02:01:52] [Server thread/INFO]: config sent
+[02:01:52] [Server thread/INFO]: Updating all forceload tickets for f432ece3-f8ee-33f5-8542-e2fd66378462
+[02:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[02:01:53] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[02:01:59] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Julilo -> Global
+[02:01:59] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Julilo. Claiming: GRAVE / Robbing: INVENTORY
+[02:01:59] [Server thread/INFO]: [voicechat] Received secret request of Julilo (18)
+[02:01:59] [Server thread/INFO]: [voicechat] Sent secret to Julilo
+[02:02:03] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[02:02:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f432ece3-f8ee-33f5-8542-e2fd66378462
+[02:02:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f432ece3-f8ee-33f5-8542-e2fd66378462
+[02:02:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Julilo (f432ece3-f8ee-33f5-8542-e2fd66378462) successfully connected to voice chat
+[02:03:35] [Server thread/INFO]: <Julilo> haber habla
+[02:03:37] [Server thread/INFO]: <Julilo> si
+[02:03:45] [Server thread/INFO]: <Julilo> si te escucho
+[02:03:52] [Server thread/INFO]: <Julilo> ahora si explica
+[02:04:11] [Server thread/INFO]: <Julilo> te pica la mano
+[02:04:22] [Server thread/INFO]: <Julilo> lo tenia preparado pa los 2
+[02:04:35] [Server thread/INFO]: <Julilo> y ahora que
+[02:05:01] [Server thread/INFO]: <Julilo> a la batalla
+[02:06:39] [Server thread/INFO]: Dioweo drowned
+[02:06:42] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[02:06:43] [Server thread/INFO]: <Julilo> dx
+[02:06:54] [Server thread/INFO]: Dioweo has made the advancement [Steam rolled]
+[02:06:54] [Server thread/INFO]: Julilo has made the advancement [Steam rolled]
+[02:06:58] [Server thread/INFO]: Dioweo claimed a grave belonging to Dioweo at -966, 61, 1628, minecraft:overworld
+[02:07:35] [Server thread/INFO]: Julilo has made the advancement [Diamonds!]
+[02:07:51] [Server thread/INFO]: <Julilo> lo agarraste
