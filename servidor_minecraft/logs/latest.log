@@ -2430,3 +2430,23 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [03:58:09] [Server thread/INFO]: <Julilo> su puta mare
 [03:58:24] [Server thread/INFO]: Dioweo has made the advancement [Distant Dreamer]
 [03:58:29] [Server thread/INFO]: Julilo has made the advancement [Distant Dreamer]
+[03:58:49] [Server thread/INFO]: [Julilo: Teleported Julilo to -2264.500000, 88.500000, 2547.500000]
+[04:00:08] [Server thread/INFO]: <Julilo> como lo ves
+[04:02:18] [Server thread/INFO]: Julilo was slain by Skeleton
+[04:02:18] [Netty Epoll Server IO #0/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:02:18] [Netty Epoll Server IO #0/ERROR]: Combo count: 4 is dual wielding: false
+[04:02:18] [Netty Epoll Server IO #0/ERROR]: Main-hand stack: 0 air
+[04:02:18] [Netty Epoll Server IO #0/ERROR]: Off-hand stack: 0 air
+[04:02:18] [Netty Epoll Server IO #0/ERROR]: Selected slot server: 3 | client: 3
+[04:02:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[04:02:41] [Server thread/INFO]: [Julilo: Teleported Julilo to Dioweo]
+[04:02:41] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[04:02:56] [Server thread/INFO]: <Julilo> porque estas asi
+[04:03:25] [Server thread/WARN]: Lithium Class Analysis Error: Class com.faboslav.friendsandfoes.entity.PlayerIllusionEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_640. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:03:25] [Server thread/WARN]: Lithium Class Analysis Error: Class com.faboslav.friendsandfoes.entity.PlayerIllusionEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_640. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:03:25] [Server thread/INFO]: <Julilo> tienes que quitarte la armadura
+[04:03:27] [Server thread/INFO]: Julilo claimed a grave belonging to Julilo at -2300, 74, 2524, minecraft:overworld
+[04:06:19] [Server thread/INFO]: Julilo discovered the floor was lava
+[04:06:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[04:06:33] [Server thread/INFO]: [Julilo: Teleported Julilo to Dioweo]
+[04:06:33] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
