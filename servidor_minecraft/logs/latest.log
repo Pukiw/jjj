@@ -1962,3 +1962,50 @@ BCLib - The End  BiomeSource (1235793f)
 [01:45:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dioweo (b73e33c7-af0d-38ce-b393-f540f754c290) successfully connected to voice chat
 [01:45:22] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [01:45:22] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[01:49:17] [Server thread/INFO]: [Handshake] Sending channel query
+[01:49:18] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[01:49:18] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[01:49:18] [Server thread/INFO]: Julilo[/127.252.144.55:43107] logged in with entity id 1026 at (-30.614830090370408, 67.0, -15.659299721807422)
+[01:49:18] [Server thread/INFO]: Sending server config values to client
+[01:49:19] [Server thread/INFO]: Syncing config to Julilo (f432ece3-f8ee-33f5-8542-e2fd66378462)
+[01:49:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:49:20] [Server thread/INFO]: Julilo joined the game
+[01:49:21] [Server thread/INFO]: PLAYER_JOIN
+[01:49:21] [Server thread/INFO]: add_player wand
+[01:49:21] [Server thread/INFO]: config sent
+[01:49:21] [Server thread/INFO]: Updating all forceload tickets for f432ece3-f8ee-33f5-8542-e2fd66378462
+[01:49:21] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[01:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[01:49:23] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[01:49:29] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Julilo -> Global
+[01:49:29] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Julilo. Claiming: GRAVE / Robbing: INVENTORY
+[01:49:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[01:49:37] [Server thread/INFO]: Julilo was slain by Revenant
+[01:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
+[01:49:40] [Server thread/INFO]: <Dioweo> zzzzz
+[01:50:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[01:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[01:50:37] [Server thread/INFO]: Villager class_1646['Lavon'/1226, l='ServerLevel[world]', x=-1127.76, y=24.00, z=1526.74] died, message: 'Lavon was slain by Zombie'
+[01:50:37] [Server thread/INFO]: Named entity class_1646['Lavon'/1226, l='ServerLevel[world]', x=-1127.76, y=24.00, z=1526.74] died: Lavon was slain by Zombie
+[01:51:31] [Server thread/INFO]: <Julilo> dontas
+[01:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:52:37] [Server thread/INFO]: <Dioweo> en la casa
+[01:52:49] [Server thread/INFO]: <Dioweo> donde nos quedamos la ultima vez
+[01:52:53] [Server thread/INFO]: <Dioweo> as tp
+[01:53:07] [Server thread/INFO]: <Dioweo> para que vengas donde estoy
+[01:53:10] [Server thread/INFO]: Julilo claimed a grave belonging to Julilo at -31, 67, -16, minecraft:overworld
+[01:53:27] [Server thread/INFO]: [Julilo: Teleported Julilo to Dioweo]
+[01:53:47] [Server thread/INFO]: <Julilo> me querias matar
+[01:53:54] [Server thread/INFO]: <Dioweo> no por que?
+[01:54:03] [Server thread/INFO]: <Julilo> un minuto y es acosa
+[01:54:25] [Server thread/INFO]: <Julilo> que as hecho
+[01:55:11] [Server thread/INFO]: <Julilo> q
+[01:55:16] [Server thread/INFO]: <Julilo> isite
+[01:55:25] [Server thread/INFO]: <Dioweo> me escuhas?
+[01:55:41] [Server thread/INFO]: <Julilo> uta me olvide porner el mod
+[01:55:47] [Server thread/INFO]: <Julilo> ahora vuelvo
+[01:55:49] [Server thread/INFO]: Julilo lost connection: Disconnected
+[01:55:49] [Server thread/INFO]: Julilo left the game
+[01:55:49] [Server thread/INFO]: remove player wand
+[01:55:49] [Server thread/INFO]: Updating all forceload tickets for f432ece3-f8ee-33f5-8542-e2fd66378462
+[01:55:49] [Server thread/INFO]: [voicechat] Disconnecting client Julilo
