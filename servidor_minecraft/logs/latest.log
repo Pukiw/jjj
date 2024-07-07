@@ -1963,3 +1963,16 @@ BCLib - Nether BiomeSource (5a02236e)
 [15:19:27] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
 [15:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
 [15:19:54] [Server thread/INFO]: [Julilo: Teleported Julilo to -2269.500000, 232.500000, 2548.500000]
+[15:22:45] [Server thread/INFO]: Julilo was slain by Zombie
+[15:22:47] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[15:23:09] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[15:23:21] [Server thread/INFO]: [Julilo: Teleported Julilo to -2253.500000, 115.500000, 2555.500000]
+[15:24:32] [Server thread/INFO]: Julilo was blown up by Creeper
+[15:24:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[15:26:15] [Server thread/INFO]: Julilo claimed a grave belonging to Julilo at -2323, 102, 2533, minecraft:overworld
+[15:26:46] [Server thread/INFO]: Julilo claimed a grave belonging to Julilo at -2300, 113, 2549, minecraft:overworld
+[15:27:22] [Server thread/INFO]: Julilo was slain by Skeleton
+[15:27:24] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Julilo accepted server config.
+[15:27:28] [Server thread/INFO]: [Julilo: Set own game mode to Creative Mode]
+[15:27:52] [Server thread/INFO]: Julilo claimed a grave belonging to Julilo at -2281, 113, 2565, minecraft:overworld
+[15:29:34] [Server thread/INFO]: Julilo has completed the challenge [The Death of a Star]
