@@ -2032,3 +2032,18 @@ BCLib - The End  BiomeSource (3ed8d339)
 [22:49:59] [Server thread/INFO]: Poopsi has made the advancement [The Beginning of An Adventure]
 [22:51:56] [Server thread/INFO]: Poopsi has made the advancement [Adventurous Eater]
 [22:55:20] [Server thread/INFO]: Dioweo has made the advancement [Hot Stuff]
+[23:01:49] [Server thread/INFO]: Poopsi has made the advancement [A... Fake?]
+[23:04:04] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[23:04:14] [Server thread/INFO]: Dioweo has made the advancement [Nether Depths Upgrade]
+[23:04:14] [Server thread/INFO]: Dioweo has made the advancement [Time for a Sweat]
+[23:04:14] [Server thread/INFO]: Dioweo has made the advancement [We Need to Go Deeper]
+[23:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23245ms or 464 ticks behind
+[23:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[23:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[23:05:10] [Server thread/INFO]: Poopsi has made the advancement [Nether Depths Upgrade]
+[23:05:10] [Server thread/INFO]: Poopsi has made the advancement [Time for a Sweat]
+[23:05:10] [Server thread/INFO]: Poopsi has made the advancement [We Need to Go Deeper]
+[23:05:10] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[23:05:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[23:05:56] [Worker-Main-21/INFO]: [betternether] BBox:class_3341{minX=-724, minY=22, minZ=380, maxX=-540, maxY=96, maxZ=564}
+[23:06:35] [Worker-Main-21/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
