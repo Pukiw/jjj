@@ -2066,3 +2066,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:48:00] [Server thread/INFO]: [Poopsi: Set own game mode to Creative Mode]
 [19:49:53] [Server thread/INFO]: Poopsi claimed a grave belonging to Poopsi at -2466, -23, 2419, minecraft:overworld
 [19:50:12] [Server thread/INFO]: [Poopsi: Set own game mode to Survival Mode]
+[19:55:53] [Server thread/INFO]: Poopsi has made the advancement [The Beginning]
