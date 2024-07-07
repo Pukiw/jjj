@@ -2259,3 +2259,28 @@ BCLib - The End  BiomeSource (1235793f)
 [03:15:12] [Server thread/INFO]: <Julilo> calabosos
 [03:16:43] [Server thread/INFO]: Dioweo has made the advancement [Close Quarters]
 [03:18:02] [Server thread/INFO]: Julilo has made the advancement [Close Quarters]
+[03:18:32] [Server thread/INFO]: Dioweo was slain by Leaping Zombie
+[03:18:34] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[03:18:41] [Server thread/INFO]: <Dioweo> tp
+[03:18:47] [Server thread/INFO]: <Dioweo> tp
+[03:18:56] [Server thread/INFO]: [Julilo: Teleported Dioweo to Julilo]
+[03:18:56] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[03:19:24] [Server thread/INFO]: Dioweo claimed a grave belonging to Dioweo at -2021, 40, 2071, minecells:prison
+[03:22:28] [Server thread/INFO]: <Julilo> no emos explorado por completo este piso
+[03:24:09] [Server thread/INFO]: Dioweo was shot by Undead Archer
+[03:24:11] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[03:24:36] [Server thread/INFO]: Dioweo claimed a grave belonging to Dioweo at -2077, 40, 2104, minecells:prison
+[03:25:04] [Server thread/INFO]: Dioweo was slain by Leaping Zombie
+[03:25:04] [Netty Epoll Server IO #1/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:25:04] [Netty Epoll Server IO #1/ERROR]: Combo count: 6 is dual wielding: false
+[03:25:04] [Netty Epoll Server IO #1/ERROR]: Main-hand stack: 0 air
+[03:25:04] [Netty Epoll Server IO #1/ERROR]: Off-hand stack: 0 air
+[03:25:04] [Netty Epoll Server IO #1/ERROR]: Selected slot server: 3 | client: 3
+[03:25:06] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Dioweo accepted server config.
+[03:25:21] [Server thread/INFO]: Dioweo claimed a grave belonging to Dioweo at -2089, 40, 2100, minecells:prison
+[03:25:46] [Server thread/INFO]: Dioweo has made the advancement [Suit Up]
+[03:27:21] [Server thread/INFO]: Dioweo has made the advancement [Penteconter]
+[03:28:09] [Server thread/INFO]: <Dioweo> julio
+[03:28:13] [Server thread/INFO]: <Julilo> si
+[03:28:18] [Server thread/INFO]: <Dioweo> que es esto de aca
+[03:28:28] [Server thread/INFO]: [Julilo: Teleported Julilo to Dioweo]
