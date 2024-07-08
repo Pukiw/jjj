@@ -1979,3 +1979,8 @@ BCLib - Nether BiomeSource (658f5e4c)
 [19:56:04] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [20:01:39] [Server thread/INFO]: Villager class_1646['Paul'/111, l='ServerLevel[world]', x=120.42, y=77.25, z=151.76] died, message: 'Paul was slain by Zombie'
 [20:01:39] [Server thread/INFO]: Named entity class_1646['Paul'/111, l='ServerLevel[world]', x=120.42, y=77.25, z=151.76] died: Paul was slain by Zombie
+[20:13:59] [Server thread/INFO]: Dioweo lost connection: Disconnected
+[20:13:59] [Server thread/INFO]: Dioweo left the game
+[20:13:59] [Server thread/INFO]: remove player wand
+[20:13:59] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
+[20:13:59] [Server thread/INFO]: [voicechat] Disconnecting client Dioweo
