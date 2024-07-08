@@ -2057,3 +2057,7 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [20:38:19] [Server thread/INFO]: [Poopsi: Set own game mode to Survival Mode]
 [20:42:14] [Server thread/INFO]: Villager class_1646['Lydia'/5821, l='ServerLevel[world]', x=-2457.65, y=42.00, z=2442.50] died, message: 'Lydia was slain by Zombie'
 [20:42:14] [Server thread/INFO]: Named entity class_1646['Lydia'/5821, l='ServerLevel[world]', x=-2457.65, y=42.00, z=2442.50] died: Lydia was slain by Zombie
+[20:45:55] [Server thread/INFO]: <Poopsi> V
+[20:47:10] [Server thread/INFO]: Poopsi has made the advancement [Path of Healing]
+[20:51:42] [Server thread/INFO]: Villager class_1646['Torie'/5922, l='ServerLevel[world]', x=-2424.70, y=64.77, z=2648.73] died, message: 'Torie was shot by Pillager'
+[20:51:42] [Server thread/INFO]: Named entity class_1646['Torie'/5922, l='ServerLevel[world]', x=-2424.70, y=64.77, z=2648.73] died: Torie was shot by Pillager
