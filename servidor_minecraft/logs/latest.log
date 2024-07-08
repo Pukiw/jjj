@@ -1958,3 +1958,18 @@ BCLib - Nether BiomeSource (5a02236e)
 [01:42:49] [Server thread/INFO]: [Poopsi: Set own game mode to Creative Mode]
 [01:43:15] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -2548.500000, 44.500000, 2501.500000]
 [01:45:22] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[01:46:08] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[01:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5130ms or 102 ticks behind
+[01:46:41] [Server thread/INFO]: Poopsi claimed a grave belonging to Poopsi at -102, 86, 475, minecraft:the_nether
+[01:46:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8151ms or 163 ticks behind
+[01:53:08] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[01:53:15] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[01:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18126ms or 362 ticks behind
+[01:53:52] [Worker-Main-16/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01:54:15] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[01:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8491ms or 169 ticks behind
+[01:54:17] [Server thread/INFO]: Poopsi lost connection: Disconnected
+[01:54:17] [Server thread/INFO]: Poopsi left the game
+[01:54:17] [Server thread/INFO]: remove player wand
+[01:54:17] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[01:54:17] [Server thread/INFO]: [voicechat] Disconnecting client Poopsi
