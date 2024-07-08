@@ -1984,3 +1984,76 @@ BCLib - Nether BiomeSource (658f5e4c)
 [20:13:59] [Server thread/INFO]: remove player wand
 [20:13:59] [Server thread/INFO]: Updating all forceload tickets for b73e33c7-af0d-38ce-b393-f540f754c290
 [20:13:59] [Server thread/INFO]: [voicechat] Disconnecting client Dioweo
+[20:36:21] [Server thread/INFO]: [Handshake] Sending channel query
+[20:36:21] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[20:36:21] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[20:36:22] [Server thread/INFO]: Poopsi[/127.252.144.55:50901] logged in with entity id 5232 at (572.3786590038313, 71.0, 3172.0547814787933)
+[20:36:22] [Server thread/INFO]: Sending server config values to client
+[20:36:22] [Server thread/INFO]: Syncing config to Poopsi (57b584d8-1d36-309d-8c51-a8ad7a5f7cf1)
+[20:36:23] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:36:23] [Server thread/INFO]: Poopsi joined the game
+[20:36:23] [Server thread/INFO]: PLAYER_JOIN
+[20:36:23] [Server thread/INFO]: add_player wand
+[20:36:23] [Server thread/INFO]: config sent
+[20:36:23] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[20:36:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:36:25] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[20:36:28] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Poopsi -> Global
+[20:36:28] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Poopsi. Claiming: GRAVE / Robbing: INVENTORY
+[20:36:28] [Server thread/INFO]: [voicechat] Received secret request of Poopsi (18)
+[20:36:28] [Server thread/INFO]: [voicechat] Sent secret to Poopsi
+[20:36:33] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Poopsi accepted server config.
+[20:36:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[20:36:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[20:36:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Poopsi (57b584d8-1d36-309d-8c51-a8ad7a5f7cf1) successfully connected to voice chat
+[20:36:51] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach]] from pos class_2338{x=629, y=69, z=3051}
+[20:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6675ms or 133 ticks behind
+[20:37:23] [Worker-Main-36/ERROR]: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-36)
+Possible solutions: Find possible causes in the stack trace below and report to the corresponding mod authors 
+
+java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-36)
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.handleNotOwner(CheckedThreadLocalRandom.java:51) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.isSafe(CheckedThreadLocalRandom.java:38) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.next(CheckedThreadLocalRandom.java:82) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at net.minecraft.util.math.random.BaseRandom.nextInt(BaseRandom.java:33) ~[server-intermediary.jar:?]
+	at net.minecraft.util.math.random.Random.nextBetween(Random.java:52) ~[server-intermediary.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.WindEntity.<init>(WindEntity.java:50) ~[frostiful-1.0.8.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.FreezingWindEntity.<init>(FreezingWindEntity.java:18) ~[frostiful-1.0.8.jar:?]
+	at net.minecraft.entity.EntityType.create(net/minecraft/class_1299.java:544) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.EntityType.method_17846(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.entity.EntityType.getEntityFromNbt(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.yungsapi_getEntity(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:126) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.handler$jbd001$yungsapi$processEntities(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:62) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.place(net/minecraft/class_3499.java:347) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.pool.SinglePoolElement.generate(net/minecraft/class_3781.java:124) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:89) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureStart.place(net/minecraft/class_3449.java:100) ~[server-intermediary.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.method_38265(net/minecraft/class_2794.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-31.1-jre.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.generateFeatures(net/minecraft/class_2794.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.method_51375(net/minecraft/class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus$SimpleGenerationTask.doWork(ChunkStatus.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.runGenerationTask(net/minecraft/class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17225(net/minecraft/class_3898.java:684) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17224(net/minecraft/class_3898.java:673) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.world.ChunkTaskPrioritySystem.method_17634(ChunkTaskPrioritySystem.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runNext(TaskExecutor.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runWhile(TaskExecutor.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.run(TaskExecutor.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[20:37:37] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -2514.500000, 110.500000, 2523.500000]
+[20:37:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[20:38:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6817ms or 136 ticks behind
+[20:38:19] [Server thread/INFO]: [Poopsi: Set own game mode to Survival Mode]
+[20:42:14] [Server thread/INFO]: Villager class_1646['Lydia'/5821, l='ServerLevel[world]', x=-2457.65, y=42.00, z=2442.50] died, message: 'Lydia was slain by Zombie'
+[20:42:14] [Server thread/INFO]: Named entity class_1646['Lydia'/5821, l='ServerLevel[world]', x=-2457.65, y=42.00, z=2442.50] died: Lydia was slain by Zombie
