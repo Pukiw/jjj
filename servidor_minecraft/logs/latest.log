@@ -2061,3 +2061,11 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [20:47:10] [Server thread/INFO]: Poopsi has made the advancement [Path of Healing]
 [20:51:42] [Server thread/INFO]: Villager class_1646['Torie'/5922, l='ServerLevel[world]', x=-2424.70, y=64.77, z=2648.73] died, message: 'Torie was shot by Pillager'
 [20:51:42] [Server thread/INFO]: Named entity class_1646['Torie'/5922, l='ServerLevel[world]', x=-2424.70, y=64.77, z=2648.73] died: Torie was shot by Pillager
+[21:02:12] [Server thread/INFO]: Poopsi has made the advancement [Voluntary Exile]
+[21:05:08] [Server thread/INFO]: [Poopsi: Teleported Poopsi to -2447.500000, 30.500000, 2477.500000]
+[21:05:20] [Server thread/INFO]: Poopsi has made the advancement [Novice Spellcaster]
+[21:05:28] [Server thread/INFO]: Poopsi lost connection: Disconnected
+[21:05:28] [Server thread/INFO]: Poopsi left the game
+[21:05:28] [Server thread/INFO]: remove player wand
+[21:05:28] [Server thread/INFO]: Updating all forceload tickets for 57b584d8-1d36-309d-8c51-a8ad7a5f7cf1
+[21:05:28] [Server thread/INFO]: [voicechat] Disconnecting client Poopsi
